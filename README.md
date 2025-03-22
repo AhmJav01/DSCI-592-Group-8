@@ -5,20 +5,22 @@ The data acquisition and preprocessing phase involved cleaning and standardizing
 
 The next phase of this project will focus on builing predictive models with ARIMA for statistical time series forecasting as well as other additional machine learning techniques like Logistic Regression. Our next steps include validating models on 2025 Q1 data and potentially incorporating external data (e.g., news sentiment and social media trends) to improve long-term forecasting accuracy. Ultimately, this project aims to provide a holistic and explainable approach to stock trend analysis in the automobile industry, combining structured historical data with real-world macroeconomic and geopolitical insights.
 
-This Repository inclued the following:
-  3 Reports
-    - Launch Report
-    - Data Acquisition and Preprocessing Report
-    - Exploratory Data Analytics Report
-
-  4 Jupyter Notebook Files
-    - Tesla Stock Code
-    - Volkswagen Stock Code
-    - Toyota Stock Code
-    - Ford Stock Code
-
-  2 Presentations & 2 Video Links
-    - Pitch Presentation
-      - Video Link: https://youtu.be/FaBld48_Wc8
-    - Status Presentation
-      - Video Link: https://youtu.be/Sept2j2sqps
+This Repository inclued the following:<br>
+<br>
+  **3 Reports<br>**
+    1. Launch Report<br>
+    2. Data Acquisition and Preprocessing Report<br>
+    3. Exploratory Data Analytics Report<br>
+    <br>
+  **4 Jupyter Notebook Files<br>**
+    1. Tesla Stock Code<br>
+    2. Volkswagen Stock Code<br>
+    3. Toyota Stock Code<br>
+    4. Ford Stock Code<br>
+<br>
+  **2 Presentations & 2 Video Links<br>**
+    1. Pitch Presentation<br>
+      - Video Link: https://youtu.be/FaBld48_Wc8<br>
+      <br>
+    2. Status Presentation<br>
+      - Video Link: https://youtu.be/Sept2j2sqps<br>
