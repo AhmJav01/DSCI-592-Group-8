@@ -11,7 +11,7 @@ This Repository inclued the following:<br>
     1. Launch Report (591) <br>
     2. Data Acquisition and Preprocessing Report<br>
     3. Exploratory Data Analytics Report<br>
-    4. Launch Report (592)
+    4. Launch Report (592) <br>
     <br>
   **4 Jupyter Notebook Files<br>**
     1. Tesla Stock Code<br>
