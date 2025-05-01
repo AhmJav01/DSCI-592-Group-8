@@ -7,10 +7,11 @@ The next phase of this project will focus on builing predictive models with ARIM
 
 This Repository inclued the following:<br>
 <br>
-  **3 Reports<br>**
-    1. Launch Report<br>
+  **4 Reports<br>**
+    1. Launch Report (591) <br>
     2. Data Acquisition and Preprocessing Report<br>
     3. Exploratory Data Analytics Report<br>
+    4. Launch Report (592)
     <br>
   **4 Jupyter Notebook Files<br>**
     1. Tesla Stock Code<br>
