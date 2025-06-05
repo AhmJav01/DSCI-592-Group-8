@@ -11,18 +11,23 @@ This Repository inclued the following:<br>
 <br>
   **Reports<br>**
     1. Launch Report (591) <br>
-    2. Data Acquisition and Preprocessing Report<br>
-    3. Exploratory Data Analytics Report<br>
+    2. Data Acquisition and Preprocessing Report (591) <br>
+    3. Exploratory Data Analytics Report (591) <br>
     4. Final Report (592) <br>
     <br>
   **Jupyter Notebook Files<br>**
     1. Tesla Stock Code Data Analysis & Acquisition (591) <br>
-    2. Volkswagen Stock Code Analysis & Acquisition (591) br>
+    2. Volkswagen Stock Code Analysis & Acquisition (591) <br>
     3. Toyota Stock Code Analysis & Acquisition (591) <br>
     4. Ford Stock Code Analysis & Acquisition (591) <br>
     5. Tesla Stock Code Prediction Model & Evaluation (592) <br>
-    6. Volkswagen Stock Code Prediction Model & Evaluation (592) br>
+    6. Volkswagen Stock Code Prediction Model & Evaluation (592) <br>
     7. Toyota Stock Code Prediction Model & Evaluation (592) <br>
     8. Ford Stock Code Prediction Model & Evaluation (592) <br>
 <br>
-
+  **Presentations<br>**
+    1. Tesla Stock Code Data Analysis & Acquisition (591) <br>
+    2. Volkswagen Stock Code Analysis & Acquisition (591) <br>
+    3. Toyota Stock Code Analysis & Acquisition (591) <br>
+    4. Ford Stock Code Analysis & Acquisition (591) <br>
+<br>
