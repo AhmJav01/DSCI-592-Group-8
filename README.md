@@ -13,6 +13,7 @@ This Repository inclued the following:<br>
     1. Launch Report (591) <br>
     2. Data Acquisition and Preprocessing Report (591) <br>
     3. Exploratory Data Analytics Report (591) <br>
+    1. Launch Report (592) <br>
     4. Final Report (592) <br>
     <br>
   **Jupyter Notebook Files<br>**
