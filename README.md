@@ -28,6 +28,6 @@ This Repository inclued the following:<br>
 <br>
   **Presentations<br>**
     1. Pitch Presentation (591) <br>
-    2. Statis Presentation (591) <br>
+    2. Status Presentation (591) <br>
     3. Final Presentation (592) <br>
 <br>
