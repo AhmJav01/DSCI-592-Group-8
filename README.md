@@ -26,8 +26,7 @@ This Repository inclued the following:<br>
     8. Ford Stock Code Prediction Model & Evaluation (592) <br>
 <br>
   **Presentations<br>**
-    1. Tesla Stock Code Data Analysis & Acquisition (591) <br>
-    2. Volkswagen Stock Code Analysis & Acquisition (591) <br>
-    3. Toyota Stock Code Analysis & Acquisition (591) <br>
-    4. Ford Stock Code Analysis & Acquisition (591) <br>
+    1. Pitch Presentation (591) <br>
+    2. Statis Presentation (591) <br>
+    3. Final Presentation (592) <br>
 <br>
