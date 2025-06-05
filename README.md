@@ -3,25 +3,26 @@ This project explores the use of time series forecasting to analyze and predict 
 
 The data acquisition and preprocessing phase involved cleaning and standardizing datasets across the four companies. We addressed missing values using median values, normalized volume units (e.g., converting 'K' and 'M' to numerical values), removed non-numeric characters from percentage changes, and ensured consistent datetime formatting. Feature engineering played a vital role, where we developed smoothed moving averages and captured time-based trends while reducing model redundancy. Exploratory Data Analysis (EDA) helped identify correlations, outliers, and trading patterns, while visualizations revealed major market events and behavioral anomalies affecting each company's stock price.
 
-The next phase of this project will focus on builing predictive models with ARIMA for statistical time series forecasting as well as other additional machine learning techniques like Logistic Regression. Our next steps include validating models on 2025 Q1 data and potentially incorporating external data (e.g., news sentiment and social media trends) to improve long-term forecasting accuracy. Ultimately, this project aims to provide a holistic and explainable approach to stock trend analysis in the automobile industry, combining structured historical data with real-world macroeconomic and geopolitical insights.
+We used four algorithms/ models to create our time series forecast models; ARIMA, Prophet, XGBoost, and LTSM to see which method was the best at predicting stock prices. Each model was selected to test different methods used in time series forecasting, and all models were evaluated using RMSE (Root Mean Squared Error) and MAPE (Mean Absolute Percentage Error). Across all companies, we found little to no seasonality or patterns in stock prices over a five-year period. While all companies did show a spike in stock price in late 2021/ early 2022 there were very little overall trends across companies. XGBoost gave the most accurate predictions, as the model resulted in the lowest RMSE and MAPE scores. LSTM models also worked well, followed by Prophet and then ARIMA. The low seasonality and non-linearity were the major factors in determining which models would perform better than other, with XGBoost and LSTM having shown to be more equipped to handle irregular data as opposed to more traditional methods such as ARIMA and Prophet. 
+
+
 
 This Repository inclued the following:<br>
 <br>
-  **4 Reports<br>**
+  **Reports<br>**
     1. Launch Report (591) <br>
     2. Data Acquisition and Preprocessing Report<br>
     3. Exploratory Data Analytics Report<br>
-    4. Launch Report (592) <br>
+    4. Final Report (592) <br>
     <br>
-  **4 Jupyter Notebook Files<br>**
-    1. Tesla Stock Code<br>
-    2. Volkswagen Stock Code<br>
-    3. Toyota Stock Code<br>
-    4. Ford Stock Code<br>
+  **Jupyter Notebook Files<br>**
+    1. Tesla Stock Code Data Analysis & Acquisition (591) <br>
+    2. Volkswagen Stock Code Analysis & Acquisition (591) br>
+    3. Toyota Stock Code Analysis & Acquisition (591) <br>
+    4. Ford Stock Code Analysis & Acquisition (591) <br>
+    5. Tesla Stock Code Prediction Model & Evaluation (592) <br>
+    6. Volkswagen Stock Code Prediction Model & Evaluation (592) br>
+    7. Toyota Stock Code Prediction Model & Evaluation (592) <br>
+    8. Ford Stock Code Prediction Model & Evaluation (592) <br>
 <br>
-  **2 Presentations & 2 Video Links<br>**
-    1. Pitch Presentation<br>
-      - Video Link: https://youtu.be/FaBld48_Wc8<br>
-      <br>
-    2. Status Presentation<br>
-      - Video Link: https://youtu.be/Sept2j2sqps<br>
+
